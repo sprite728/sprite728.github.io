@@ -3,8 +3,57 @@ layout: default
 ---
 
 <div class="home">
+  <div id="loader-wrapper">
+    <div id="loader"></div>
 
-  <h1 class="page-heading">Posts</h1>
+  </div>
+
+  <div class="home-intro-name">
+    <h2>Hello, <br/> I'm Chuan-Che <br/>Jeff Huang</h2>  
+  </div>
+  <video class="home-video" preload autoplay loop>
+    <source src="/assets/videos/highwire-bw.mp4" type="video/mp4"
+      poster="/assets/imgs/highwire-video-poster.png"
+    >
+  </video> 
+
+  <div class="home-intro-description">
+    <p>I'm a design engineer & HCI researcher crafting considerate, engaging, and intelligent objects.</p>
+  </div>
+  <div class="home-intro-divider"></div>
+  
+  <div class="row">
+    <div class="col-md-12">
+      <h2> Projects
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      Project Sauna
+    </div>
+    <div class="col-md-8">
+      <img src="/assets/imgs/home/ProjectCard-Sauna.png">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      Reef Thermostat
+    </div>
+    <div class="col-md-8">
+      <div class="row">
+        <div class="col-md-12">
+          Primary Hello World
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-offset-6 col-md-6">
+          Secondary
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- These are old stuff from. Leave it here for reference -->
+  <!-- <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -18,6 +67,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>

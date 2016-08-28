@@ -6,16 +6,22 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-url: "/assets/fonts/232MKSD_RoundLight.ttf";
+$base-font-family: MKSDRoundLight, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+$title-font-url: "/assets/fonts/232MKSD_RoundMedium.ttf";
+$title-font-family: MKSDRound, Arial, sans-serif;
+$title-font-size: 36px;
+$title-font-height: 1.5;
+
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       white;
+$background-color: black;
+$brand-color:      #CEEF00; 
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -28,6 +34,15 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
+@font-face {
+    font-family: MKSDRound; 
+    src: url($title-font-url);
+}
+
+@font-face {
+    font-family: MKSDRoundLight; 
+    src: url($base-font-url);
+}
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
@@ -48,5 +63,9 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "home_layout"
+
+        // I won't put my code here, no need for 
+        // syntax-highlighting
+        //"syntax-highlighting" 
 ;
