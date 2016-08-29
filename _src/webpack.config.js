@@ -21,8 +21,8 @@ module.exports = {
     ]
   },
   output: {
-    path: path.join(__dirname, "../_site"),
-    filename: "src/main.js"
+    path: path.join(__dirname, "../libs"),
+    filename: "main.js"
   },
   plugins: debug ? [] : [
     new webpack.optimize.DedupePlugin(),
