@@ -22,7 +22,7 @@ module.exports = {
   },
   output: {
     path: path.join(__dirname, "../_site"),
-    filename: "index.js"
+    filename: "main.js"
   },
   plugins: debug ? [] : [
     new webpack.optimize.DedupePlugin(),
