@@ -1,0 +1,89 @@
+.project {
+  .cover {
+    width: 100%;
+    margin-bottom: 30px;
+
+    figure {
+      position: relative;
+    }
+
+    figcaption {
+      color: white;
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      margin: 90px auto 0 auto;
+      text-align: center;
+
+
+
+      h3 {
+        font-size: 36px;
+        font-family: $title-font-family;
+
+        
+      }
+
+      h3.black {
+          color: black;
+      }
+
+      p {
+        font-size: 24px;
+      }
+
+      p.black {
+        color: black;
+        font-family: $title-font-family;
+        // text-shadow: 0px 3px 3px white, 0px -3px 3px white;
+      }
+      
+
+      @include media-query($on-laptop) {
+        margin-top: 60px;
+        
+        // h3 {
+        //   font-size: 24px;
+        // }  
+
+        // p {
+        //   font-size: 16px;
+        // }
+      }
+
+      @include media-query($on-palm) {
+        margin-top: 30px;
+        
+        h3 {
+          font-size: 24px;
+        }  
+
+        p {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+
+
+  h3 {
+    font-size: 36px;
+    font-family: $title-font-family;
+  }
+
+  p {
+    font-size: 24px;
+  }
+
+  .three-circle {
+    text-align: center;
+    margin: 0 auto 0 auto;
+  }
+
+  img {
+    margin-bottom: 30px;
+  }
+
+}

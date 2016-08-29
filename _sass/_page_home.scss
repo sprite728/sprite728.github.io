@@ -1,0 +1,197 @@
+// I want to define local variable here
+// so I define a large .home to wrap my sass code.
+
+
+
+.home {
+  .home-video {
+    width: 100%;
+
+    @include media-query($on-laptop) {
+      width: -webkit-calc(#{$on-laptop} - (#{$spacing-unit} / 2));
+      width:         calc(#{$on-laptop} - (#{$spacing-unit} / 2));
+    }
+
+    @include media-query($on-palm) {
+      width: -webkit-calc(#{$on-palm}  - (#{$spacing-unit} / 2));
+      width:         calc(#{$on-palm}  - (#{$spacing-unit} / 2));
+    
+    }
+  }
+
+  .wrapper {
+    margin-top: 60px;
+  } 
+
+  figure {
+    position: relative;
+    margin-bottom: $spacing-unit;
+  }
+
+  figcaption {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    background: #2c3f52;
+    color: white;
+
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
+    -moz-transition: -moz-transform 0.3s, opacity 0.3s;
+    transition: transform 0.3s, opacity 0.3s;
+
+    h3 {
+      font-size: 36px;
+      margin-top: 60px;
+
+      @include media-query($on-laptop) {
+        margin-top: 30px;
+      }
+
+      @include media-query($on-palm) {
+        margin-top: 15px;
+      
+      }
+
+    }
+
+    span {
+      font-size: 16px;
+    }
+
+  }
+
+  figure:hover figcaption {
+    background: black;
+    opacity: 0.8;
+
+  }
+
+}
+// old stuff (before 8/28/2016)
+// .home {
+  
+//   .home-video {
+
+//     &[disabled]:hover {
+
+//     }
+//     // width: 100%;
+//     // height: 100%;
+
+//     // First, we want to dynamically get the 
+//     // parent width and height. 
+//     // Might need to write a javascript for this ... 
+//     // width: -webkit-calc((#{$content-width} - #{$spacing-unit} * 2) * 0.8 - (#{$spacing-unit} / 2));
+    
+//     // @include media-query($on-laptop) {
+//     //     width: -webkit-calc((#{$content-width} - #{$spacing-unit}) * 0.8 - (#{$spacing-unit} / 2));
+//     //     width:         calc((#{$content-width} - #{$spacing-unit}) * 0.8 - (#{$spacing-unit} / 2));
+//     // }
+    
+//     // @include media-query($on-palm) {
+//     //     width: -webkit-calc((#{$content-width} - #{$spacing-unit}) * 0.8 - (#{$spacing-unit} / 2));
+//     // }
+
+//     margin-right: auto;
+//     margin-left: auto;
+//     // margin-top: 60px;
+//     display: block; // Need to make it a block to center it
+//     position: absolute;
+
+//     @include media-query($on-laptop) {
+//       position: static; 
+//       width: 100%;
+//       height: 100%;
+          
+//     }
+
+//     @include media-query($on-palm) {
+//       position: static; 
+//       width: 100%;
+//       height: 100%;
+          
+//     }
+//   }
+
+//   .home-intro-name {
+//     position: fixed;
+//     left: 0;
+//     background-color: white;
+//     z-index: 1;
+//     color: black;
+
+//     h2 {
+//       margin-left: 15px;
+
+//     }
+
+//     @include media-query($on-laptop) {
+//       margin-top: 10px;
+//       margin-bottom: 30px;
+//       padding-top: $spacing-unit/2; 
+//       padding-bottom: $spacing-unit;
+//       margin-left: auto;
+//       margin-right: auto;
+//       margin-bottom: $spacing-unit;
+//       text-align: center;
+//       width: 100%;
+//       position: static;     
+//     }
+//   }
+
+//   .home-intro-description {
+//     position: absolute;
+//     background-color: black;
+//     // opacity: 0.90;
+//     z-index: 2;
+//     font-size: 20px;
+//     // test 2
+
+//     @include media-query($on-laptop) {
+//       position: static;   
+//       // margin-left: 0px;
+//     }
+
+//     p {
+//       @include media-query($on-laptop) {
+//         position: static;
+//         // margin-left: 15px;
+//         // margin-right: auto;
+//         text-align: center;
+//     }
+//     }
+
+//   }
+
+//   .home-intro-divider {
+//     // Use this to dynamically push down the footer
+//     height: -webkit-calc(((#{$content-width} - #{$spacing-unit} * 2) * 0.8 - (#{$spacing-unit} / 2)) * 0.5625);
+//     height:         calc(((#{$content-width} - #{$spacing-unit} * 2) * 0.8 - (#{$spacing-unit} / 2)) * 0.5625);
+
+
+//     @include media-query($on-laptop) {
+//       height: 0px;
+//       // visibility: hidden;
+
+//     }
+
+//     position: static;
+//   }
+
+//   .project-card-sauna {
+    
+//   }
+
+// }

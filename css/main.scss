@@ -17,18 +17,21 @@ $title-font-family: MKSDRound, Arial, sans-serif;
 $title-font-size: 36px;
 $title-font-height: 1.5;
 
+$header-font-size: 36px;
+
 $spacing-unit:     30px;
 
-$text-color:       white;
-$background-color: black;
+$text-color:       black;
+$background-color: white;
 $brand-color:      #CEEF00; 
+$divider-color:    #828282;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1024px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -63,7 +66,10 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "home_layout"
+        "page_home",
+        "page_about",
+        "page_research",
+        "project"
 
         // I won't put my code here, no need for 
         // syntax-highlighting

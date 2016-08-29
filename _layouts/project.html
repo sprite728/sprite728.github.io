@@ -1,0 +1,27 @@
+---
+layout: base_project
+---
+<div class="post project">
+
+  <div class="cover">
+    <!-- <img src="/assets/imgs/projects/reef/cover.png"> -->
+    <figure>
+      <img src="{{ page.cover_src | prepend: site.baseurl }}">
+      <figcaption>
+        {% if page.cover_type == "black" %}
+          <h3 class="black">{{ page.cover_name }}</h3>
+          <p class=black>{{ page.cover_tagline }}</p>
+        {% else %}
+          <h3>{{ page.cover_name }}</h3>
+          <p>{{ page.cover_tagline }}</p>
+        {% endif %}
+      </figcaption>
+    </figure>
+  </div>
+  <div class="wrapper">
+    <article class="post-content">
+      {{ content }}
+    </article>
+  </div>
+
+</div>
