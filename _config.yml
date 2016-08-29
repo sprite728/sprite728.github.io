@@ -4,7 +4,7 @@ email: chuanche@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
   Chuan-Che (Jeff) Huang
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://sprite7288.github.io" # the base hostname & protocol for your site
+url: "https://sprite728.github.io" # the base hostname & protocol for your site
 github_username:  sprite728
 keep_files:
     - "assets/videos"
