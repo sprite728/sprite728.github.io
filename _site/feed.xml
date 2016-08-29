@@ -1,14 +1,449 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cc:jeffh</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>ccjeffhuang</title>
+    <description>Chuan-Che (Jeff) Huang
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Aug 2016 20:23:33 -0400</pubDate>
-    <lastBuildDate>Sun, 28 Aug 2016 20:23:33 -0400</lastBuildDate>
+    <link>https://sprite728.github.io/</link>
+    <atom:link href="https://sprite728.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 29 Aug 2016 02:51:19 -0400</pubDate>
+    <lastBuildDate>Mon, 29 Aug 2016 02:51:19 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Vigor</title>
+        <description>&lt;div class=&quot;wrapper project&quot;&gt;
+  &lt;h3&gt;Project Background&lt;/h3&gt;
+  &lt;p&gt;
+    This is a three months collaborative project with Vivia. While working at Next Experience Display Lab of Samsung Research America, we were challenged to envision the future of social robots and their roles in family health and wellbeing. 
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/vigor/team.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/challenge.png&quot; /&gt;
+  
+  &lt;h3&gt;Observation&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/observation.png&quot; /&gt;
+
+  &lt;h3&gt;Research Process&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/process.png&quot; /&gt;
+
+  &lt;h3&gt;Users&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/users.png&quot; /&gt;
+
+  &lt;h3&gt;Findings&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/finding-1.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/finding-2.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/finding-3.png&quot; /&gt;
+
+  &lt;h3&gt;Introducing Vigor&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/vigor.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/features.png&quot; /&gt;
+
+  &lt;h3&gt;Engaging Nudges and Interaction&lt;/h3&gt;
+  &lt;iframe src=&quot;https://player.vimeo.com/video/151483294&quot; width=&quot;1024&quot; height=&quot;576&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/vigor/feature-1.png&quot; /&gt;
+
+  &lt;h3&gt;Personalized Fitness Insights&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/feature-2.png&quot; /&gt;
+
+  &lt;h3&gt;Context-Aware Fitness Scheduling &amp;amp; Recommendations&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/feature-3.png&quot; /&gt;
+
+  &lt;h3&gt;Vigor System Architecture&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/system-arch.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/prototype.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/vigor/prototype-2.png&quot; /&gt;
+
+  &lt;iframe src=&quot;https://player.vimeo.com/video/138840718&quot; width=&quot;1024&quot; height=&quot;576&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
+        <link>https://sprite728.github.io/projects/vigor.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/projects/vigor.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>StoneSoup</title>
+        <description>&lt;div class=&quot;wrapper project&quot;&gt;
+  &lt;img src=&quot;/assets/imgs/projects/stonesoup/product.png&quot; /&gt;
+  &lt;h3&gt;Why StoneSoup?&lt;/h3&gt;
+
+  &lt;p&gt;
+    We are gradually surrounded by information display in public areas. These displays try to attract our attention. They implicitly influence us, and are often work for someone else’s agenda. This future raises an important question: “can the ambient be understood as a shared cultural resource, to be socially curated, voluntarily limited, and self-governed as if a commons?”
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/stonesoup/motivation-1.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/stonesoup/motivation-2.png&quot; /&gt;
+
+  &lt;h3&gt;StoneSoup, a Community Display for Student Lounge &lt;/h3&gt;
+
+  &lt;p&gt;
+    To explore a future where our digital surroundings can be collaboratively customized, we created StoneSoup, a public display that can adapt its content based on the people nearby in a student lounge. 
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    StoneSoup has three unique features: 1) fast auto check-in, 2) stream-based sharing and 3) social configuration. 
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/stonesoup/stonesoup-1.png&quot; /&gt;
+
+  &lt;h3&gt;Fast Auto Check-In&lt;/h3&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;p&gt;
+        At the time there was no BLE technology and iBeacon. We used multiple bluetooth adaptors running in parallel to detect who is in the lounge.
+      &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;img src=&quot;/assets/imgs/projects/stonesoup/feature-1.gif&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;h3&gt;Stream-based Sharing&lt;/h3&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;p&gt;
+        Previous research has shown that it is burdensome for end-users to maintain the content on shared displays. They often forget to update the content, so the content on the display becomes obsolete very quick.  
+      &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;img src=&quot;/assets/imgs/projects/stonesoup/feature-2.gif&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;p&gt;
+        To resolve this issue, we let users define a steam they would like to share. A stream can be a Flickr tag they follow, or a news feedback they like. 
+      &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;img src=&quot;/assets/imgs/projects/stonesoup/feature-3.gif&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;h3&gt;Social Configuration&lt;/h3&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;p&gt;
+        Users often have problem understand what they can share in a community. To help them navigate the norm of the space, we let people observe the streams shared by other users. They can easily fork a stream to create their own streams. 
+      &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;img src=&quot;/assets/imgs/projects/stonesoup/feature-4.gif&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;h3&gt;Deployment&lt;/h3&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;p&gt;
+        A two week deployment was conducted with three tutorial sessions held and 34 students registered.
+      &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-lg-6&quot;&gt;
+      &lt;img src=&quot;/assets/imgs/projects/stonesoup/deployment.png&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;h3&gt;Result&lt;/h3&gt;
+  &lt;p&gt;
+    We won the top price for the siexpoSItion competition in the research category. Our deployment also yield some interesting insights. You can read the technical report for detail. 
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;a href=&quot;/assets/imgs/projects/stonesoup/paper.pdf&quot;&gt;technical report&lt;/a&gt;
+  &lt;/p&gt;
+  
+  &lt;iframe width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://www.youtube.com/embed/pdvq7iGeGFo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
+        <link>https://sprite728.github.io/projects/stonesoup.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/projects/stonesoup.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Sauna</title>
+        <description>&lt;div class=&quot;wrapper project&quot;&gt;
+  &lt;img src=&quot;/assets/imgs/projects/sauna/product.png&quot; /&gt;
+
+  &lt;h3&gt;A Dream of Adaptive Homes&lt;/h3&gt;
+  &lt;p&gt;
+    Researchers have been trying to model people’s thermal comfort (i.e., feeling of hot or cold) for more than four decades. They do this for two reasons: 1) to advance our knowledge in the interaction between our body and our mind; 2) to design systems that can react to people’s comfort, such as a smart home. As a UbiComp researcher, I am motivated by the latter, particularly, to create intelligent thermostats that can predict people’s comfort, therefore increasing their comfort while helping them save energy.
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/sauna/1.png&quot; /&gt;
+
+  &lt;h3&gt;Infer People’s Comfort is Challenging&lt;/h3&gt;
+  &lt;p&gt;
+    Automatically infer people’s comfort using sensors are challenging. Past approaches require either cumbersome sensors or human observers, making them not suitable for naturalistic settings—- allowing people to perform their nature routines at home without much interruption. These approaches are also designed for large group of people in commercial buildings, making them not suitable for small households, as people’s behaviors at home are more dynamic than in offices.  
+  &lt;/p&gt;
+
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-lg-4&quot;&gt;
+      &lt;div class=&quot;row three-circle&quot;&gt;
+      &lt;img src=&quot;/assets/imgs/projects/sauna/challenge-1.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;row three-circle&quot;&gt;
+        Cubersome sensors
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-lg-4&quot;&gt;
+      &lt;div class=&quot;row three-circle&quot;&gt;
+      &lt;img src=&quot;/assets/imgs/projects/sauna/challenge-2.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;row three-circle&quot;&gt;
+        Design for large buildings, not for small households.
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-lg-4&quot;&gt;
+      &lt;div class=&quot;row three-circle&quot;&gt;
+      &lt;img src=&quot;/assets/imgs/projects/sauna/challenge-3.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;row three-circle&quot;&gt;
+        Home is a place people exhibit  dynamic and adaptive behaviors
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;h3&gt;Our Approach &amp;amp; The Sauna System&lt;/h3&gt;
+  &lt;p&gt;
+    To infer people’s thermal comfort under naturalistic settings at home, we used wearable fitness trackers and indoor sensors. Although wearable fitness trackers are originally designed for health purposes, we found that they also provide additional sensor data that were important for sensing people’s comfort, such as activity level and skin temperature. 
+  &lt;/p&gt;
+  &lt;p&gt;
+    We took a supervised machine learning approach to collect ground truth and sensor data, as well as training our models. A smart home sensing system was built, and we deployed it to 7 households for a month to collect data. 
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/sauna/process-1.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/sauna/process-2.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/sauna/process-3.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/sauna/process-4.png&quot; /&gt;
+
+  &lt;h3&gt;Result&lt;/h3&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-lg-7&quot;&gt;
+      &lt;p&gt;
+        In short, our model performs much better than previous approaches, yielding significantly less errors.   We also identify situations that cause inaccurate prediction, as well as proposing possible solutions for improving comfort prediction. We are one step closer to building an adaptive thermostat.
+      &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-lg-5&quot;&gt;
+      &lt;img src=&quot;/assets/imgs/projects/sauna/result.png&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  &lt;p&gt;If you are interested in the detail, you can read it in my paper or my presentation at UbiComp ’15.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/assets/imgs/projects/sauna/paper.pdf&quot;&gt;paper&lt;/a&gt; | &lt;a href=&quot;/assets/imgs/projects/sauna/slides.pdf&quot;&gt;slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
+        <link>https://sprite728.github.io/projects/sauna.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/projects/sauna.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Reef</title>
+        <description>&lt;!-- &lt;img src=&quot;/assets/imgs/projects/reef/cover.png&quot;&gt; --&gt;
+&lt;div class=&quot;wrapper project&quot;&gt;
+  &lt;h3&gt;Home Heating and Cooling Consumes a Lot of Energy&lt;/h3&gt;
+  &lt;p&gt;
+    Home heating and cooling consumes around 20% of the total energy in the U.S. For an average house in midwest, that’s more than $1100 spending per year on heating and cooling. This high consumption, however, is largely due to inefficient usage of the heaters at home. Although companies have started to develop smart thermostats, these thermostats are still limited. They often have limited intelligence, leading to miss opportuntiy for saving. They also lack the skills to inform and coach people about how to reach more efficient usage of their heating and cooling systems. 
+  &lt;/p&gt;
+  &lt;br /&gt;
+  &lt;h3&gt;Comfort-Aware Eco-Coaching Thermostats&lt;/h3&gt;
+  &lt;p&gt;
+    To better encourage energy saving while respecting people’s comfort needs, I’m currently designing and developing what we call comfort-aware eco-coaching thermostats. This work is in preparation for publication so I can’t share much detail here. Please contact me if you are interested in the project.  
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/reef/reef-thermostat.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/reef/study-site.png&quot; /&gt;
+  
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
+        <link>https://sprite728.github.io/projects/reef.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/projects/reef.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Olegoru</title>
+        <description>&lt;div class=&quot;wrapper project&quot;&gt;
+  &lt;h3&gt;A Storytelling &amp;amp; Sound Composition Tool for Children&lt;/h3&gt;
+
+  &lt;p&gt;
+    Learning storytelling is beneficial for children's development. Various tools have been proposed to expand the set of materials children can use to compose their stories. However, most previous research focuses on enhancing the visual aspect of storytelling and underexplores the acoustic elements needed for children's stories. In this paper, Olegoru1, a sound composition tool in the form of magic gloves and soul stones, is proposed to augment children's storytelling when using physical objects. Children can create contextual and regional sound effects as well as event-based acoustics through speech, non-verbal and gestural interaction, and could potentially enable children to create more immersive story-worlds. To investigate the technical feasibility of such tool, a preliminary prototype was built that accepts a limited number of vocalized sound effects and vocabulary.
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    If you are interested in the detail, you can read it in my WIP paper or my poster at TEI ’15.
+  &lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/assets/imgs/projects/olegoru/paper.pdf&quot;&gt;WIP paper&lt;/a&gt; | &lt;a href=&quot;/assets/imgs/projects/olegoru/poster.jpg&quot;&gt;poster&lt;/a&gt;&lt;/p&gt;
+  
+  &lt;iframe width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://www.youtube.com/embed/oMUpAo1Owsw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/olegoru/olegoru.png&quot; /&gt;
+
+  
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
+        <link>https://sprite728.github.io/projects/olegoru.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/projects/olegoru.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Nenrin</title>
+        <description>&lt;div class=&quot;wrapper project&quot;&gt;
+  &lt;img src=&quot;/assets/imgs/projects/nenrin/product.png&quot; /&gt;
+
+  &lt;p&gt;
+    During the year my advisor was on sabbatical, I got the chance to pursude my interest in digital fabrication and explore how context-aware computing might impact fabrication. 
+  &lt;/p&gt;
+
+  &lt;h3&gt;Why Nenrin: Data, Fabrication &amp;amp; Memory&lt;/h3&gt;
+
+  &lt;p&gt;
+    Collecting objects which hold personal and emotional meanings has been part of our everyday life. These objects remind us of past events, reflect who we are and signify our relationships with others. New design opportunity to support such desires has emerged given the advancement of quantified-self technology, context-aware computing and personal fabrication. 
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    In the near future, people will be able to embed personal data captured by ubiquitous sensors—data that represents meaningful life experiences—into personally fabricated objects. I call these “trace-embedded objects”. They provide a new way for us to reflect the past, as well as for gifting.   
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/nenrin/motivation-1.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/nenrin/motivation-2.png&quot; /&gt;
+
+  &lt;h3&gt;Trace-Embedded Objects: Imagined Service Design&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/nenrin/service.png&quot; /&gt; 
+  
+  &lt;h3&gt;Nenrin&lt;/h3&gt;
+  &lt;p&gt;
+    To explore this future and to understand how to design trace-embedded objects, I created Nenrin. Nenrin is a table lamp that represents a mother’s pregnancy experience. The shape of Nenrin is generated from multiple sources of data, including mother’s body shape changing overtime, her heart rate, and her pregnancy diary. 
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/nenrin/nenrin-1.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/nenrin/nenrin-2.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/nenrin/critique.png&quot; /&gt;
+
+  &lt;h3&gt;Result&lt;/h3&gt;
+  &lt;p&gt;
+    Recently Nenrin won the Re:defining Art Award and was showcased at the Duderstadt Gallery at University of Michigan. The second iteration of Nenrin is underway. 
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/nenrin/exhibition.png&quot; /&gt;
+    
+  &lt;h3&gt;Design Process&lt;/h3&gt;
+  &lt;img src=&quot;/assets/imgs/projects/nenrin/ideation-1.png&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
+        <link>https://sprite728.github.io/projects/nenrin.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/projects/nenrin.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Internet of Shoes</title>
+        <description>&lt;div class=&quot;wrapper project&quot;&gt;
+  &lt;p&gt;
+    This is an ongoing collaborative project between the School of Information, EECS and Roland Graf from U-M’s design school. For detail, please contact me. 
+  &lt;/p&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/ios/prototype-1.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/ios/prototype-2.png&quot; /&gt;
+
+  &lt;p&gt;Hosting a Maker Workshop for High Schoolers to Make Internet of Shoe Prototypes&lt;/p&gt;
+  &lt;img src=&quot;/assets/imgs/projects/ios/teaching.png&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
+        <link>https://sprite728.github.io/projects/ios.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/projects/ios.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>HighWire</title>
+        <description>&lt;div class=&quot;wrapper project&quot;&gt;
+  &lt;img src=&quot;/assets/imgs/projects/highwire/highwire.png&quot; /&gt;
+
+  &lt;h3&gt;Introduction&lt;/h3&gt;
+
+  &lt;p&gt;
+    In the summer of 2012, I collaborated with faculty members and students from the U-M Digital Fabrication Lab to built a room-sized landmark for the school’s largest research center–North Campus Research Complex (NCRC), a 28-building, 174-acre campus. “Collaboration” is the theme for our design, as the goal of NCRC is to encourage experts from different disciplines to cooperate together and to bring up new ideas.
+  &lt;/p&gt;
+
+  &lt;h3&gt;Challenge&lt;/h3&gt;
+  &lt;p&gt;
+    How to transform the value “collaboration” into a concrete representation?
+  &lt;/p&gt;
+
+  &lt;h3&gt;Solution&lt;/h3&gt;
+  &lt;p&gt;
+    Inspried by Rafael Lozano-Hemmer’s work, I proposed to make the installation as a flexible digital playground for people in NCRC, rather than as a statue that cannot be changed once built and deployed. Researchers at NCRC would be able to easily plug in an USB cable to the installation and reprogram a series of ambient light rods, motion sensors and microphones through Arduino programming language. Therefore, the installation becomes a place where different people could contribute their ideas together, embodyng the collaboration goal of the research center.
+  &lt;/p&gt;
+
+  &lt;h3&gt;Impact&lt;/h3&gt;
+  &lt;p&gt;
+    Currently the installation is already in place and I had completed several demo applications for it. HighWire will be a permanent  artwork installation at NCRC. Upon constructing the installation, I explained the digital playground idea to many visitors, they were all excited about being able to create applications for the installation, and had started to imagine how they could interact with the installation. I believe empowering people to express and share their ideas is the key to facilitate collaboration.
+  &lt;/p&gt;
+
+  &lt;iframe width=&quot;1024&quot; height=&quot;576&quot; src=&quot;https://www.youtube.com/embed/GvOOjheNqL8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+  &lt;h3&gt;Design Process&lt;/h3&gt;
+
+  &lt;img src=&quot;/assets/imgs/projects/highwire/ideation-1.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/highwire/ideation-2.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/highwire/prototype-1.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/highwire/prototype-2.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/highwire/construction-1.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/highwire/construction-2.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/highwire/construction-3.png&quot; /&gt;
+  &lt;img src=&quot;/assets/imgs/projects/highwire/highwire-2.png&quot; /&gt;
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
+        <link>https://sprite728.github.io/projects/highwire.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/projects/highwire.html</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,8 +463,8 @@
 
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/10/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/09/welcome-to-jekyll.html</guid>
+        <link>https://sprite728.github.io/jekyll/update/2015/10/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/jekyll/update/2015/10/09/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -43,8 +478,8 @@
         <description>&lt;p&gt;This is the project page for HighWire.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>http://yourdomain.com/project/2015/10/09/project-highwire.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/2015/10/09/project-highwire.html</guid>
+        <link>https://sprite728.github.io/project/2015/10/09/project-highwire.html</link>
+        <guid isPermaLink="true">https://sprite728.github.io/project/2015/10/09/project-highwire.html</guid>
         
         
         <category>project</category>

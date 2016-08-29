@@ -1,20 +1,32 @@
 .research {
-    
+  
+  h3 {
+    font-size: 18px;
+    line-height: 23px;
+    font-family: $title-font-family;
+  }
+
+  p {
+    font-size: 14px;
+    line-height: 19px;
+  }
+
 
     
-    .title-1 {
-      margin-left: 0px;
-      
-      h3 {
-        color: white;
-        line-height: 42px;
-        padding-left: 10px;
-        background-color: #B57A7A;
-      }
+  .title-1 {
+    margin-left: 0px;
+    
+    h3 {
+      color: white;
+      line-height: 42px;
+      padding-left: 10px;
+      background-color: #B57A7A;
+      font-size: 24px;
     }
+  }
 
-    .project {
-      margin-bottom: 30px;
-    }
+  .row {
+    margin-bottom: 30px;
+  }
 
 }

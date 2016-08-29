@@ -363,14 +363,22 @@ pre {
   text-align: center;
   font-size: 36px; }
 
+.research h3 {
+  font-size: 18px;
+  line-height: 23px;
+  font-family: MKSDRound, Arial, sans-serif; }
+.research p {
+  font-size: 14px;
+  line-height: 19px; }
 .research .title-1 {
   margin-left: 0px; }
   .research .title-1 h3 {
     color: white;
     line-height: 42px;
     padding-left: 10px;
-    background-color: #B57A7A; }
-.research .project {
+    background-color: #B57A7A;
+    font-size: 24px; }
+.research .row {
   margin-bottom: 30px; }
 
 .project .cover {

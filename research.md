@@ -12,7 +12,9 @@ permalink: /research/
       <div class="row">
         <!-- Reef -->
         <div class="col-lg-4">
+          <a href="/projects/reef">
           <img src="/assets/imgs/projects/reef/thumb.png">
+          </a>
         </div>
         <div class="col-lg-8">
           <h4>Reef</h4>
@@ -25,7 +27,7 @@ permalink: /research/
         <h3>Publications & Technical Reports</h3>
       </div>
       <!-- Sauna -->
-      <div class="row project">
+      <div class="row">
         <div class="col-lg-3">
           <img src="/assets/imgs/projects/sauna/thumb.png">  
         </div>
@@ -39,7 +41,7 @@ permalink: /research/
         </div>
       </div>
       <!-- Olegoru -->
-      <div class="row project">
+      <div class="row">
         <div class="col-lg-3">
           <img src="/assets/imgs/projects/olegoru/thumb.png">  
         </div>
@@ -53,7 +55,7 @@ permalink: /research/
         </div>
       </div>
       <!-- StoneSoup -->
-      <div class="row project">
+      <div class="row">
         <div class="col-lg-3">
           <img src="/assets/imgs/projects/stonesoup/thumb.png">  
         </div>
