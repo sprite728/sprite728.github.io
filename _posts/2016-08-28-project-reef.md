@@ -12,7 +12,7 @@ cover_tagline: Designing Comfort-Aware Eco-Coaching Thermostat
 <div class="wrapper project">
   <h3>Home Heating and Cooling Consumes a Lot of Energy</h3>
   <p>
-    Home heating and cooling consumes around 20% of the total energy in the U.S. For an average house in midwest, that’s more than $1100 spending per year on heating and cooling. This high consumption, however, is largely due to inefficient usage of the heaters at home. Although companies have started to develop smart thermostats, these thermostats are still limited. They often have limited intelligence, leading to miss opportuntiy for saving. They also lack the skills to inform and coach people about how to reach more efficient usage of their heating and cooling systems. 
+    Home heating and cooling consumes around 20% of the total energy in the U.S. For an average house in midwest, that’s more than $1100 spending per year on heating and cooling. This high consumption, however, is largely due to inefficient usage of the heaters at home. Although companies have started to develop smart thermostats, these thermostats are still limited. They often have limited intelligence, leading to missed opportuntiy for saving. They also lack the skills to inform and coach people about how to reach more efficient usage of their heating and cooling systems. 
   </p>
   <br/>
   <h3>Comfort-Aware Eco-Coaching Thermostats</h3>

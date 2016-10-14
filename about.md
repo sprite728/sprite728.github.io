@@ -35,7 +35,7 @@ permalink: /about/
     </p>
 
     <p>
-    He has received Chia-Lun Lo Fellowship, School of Information Merit Scholarship and membership of Phi-Tau-Phi Scholastic Honor Society. Before he studied at U-M, he received a BS in computer science from National Tsing Hua University, where he gradated with first rank among his class.
+    He has received Chia-Lun Lo Fellowship, School of Information Merit Scholarship and membership of Phi-Tau-Phi Scholastic Honor Society. Before he studied at U-M, he received a BS in computer science from National Tsing Hua University, where he graduated with first rank among his class.
     </p>
   </div>
 </div>  
