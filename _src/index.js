@@ -1,4 +1,4 @@
-import $ from "jquery"
+import $ from "jquery";
 
 function updateHomeView(){
   var el;
@@ -23,12 +23,5 @@ $( window ).resize(function() {
   updateHomeView();
 })
 
-// $(window).scroll(function(){
-//   var scrollTop = $(window).scrollTop();
-//   console.log(scrollTop);
 
-//   var el;
-//   el = $(".home-intro-name");
-//   el.css("margin-left", -scrollTop * 3);
-// })
 

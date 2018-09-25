@@ -4,11 +4,11 @@
     <title>ccjeffhuang</title>
     <description>Chuan-Che (Jeff) Huang
 </description>
-    <link>https://sprite728.github.io/</link>
-    <atom:link href="https://sprite728.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Aug 2016 13:44:50 -0400</pubDate>
-    <lastBuildDate>Mon, 29 Aug 2016 13:44:50 -0400</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Sep 2018 12:39:42 -0400</pubDate>
+    <lastBuildDate>Tue, 25 Sep 2018 12:39:42 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Vigor</title>
@@ -60,8 +60,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/projects/vigor.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/projects/vigor.html</guid>
+        <link>http://localhost:4000/projects/vigor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/vigor.html</guid>
         
         
         <category>project</category>
@@ -164,8 +164,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/projects/stonesoup.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/projects/stonesoup.html</guid>
+        <link>http://localhost:4000/projects/stonesoup.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/stonesoup.html</guid>
         
         
         <category>project</category>
@@ -248,8 +248,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/projects/sauna.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/projects/sauna.html</guid>
+        <link>http://localhost:4000/projects/sauna.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/sauna.html</guid>
         
         
         <category>project</category>
@@ -262,7 +262,7 @@
 &lt;div class=&quot;wrapper project&quot;&gt;
   &lt;h3&gt;Home Heating and Cooling Consumes a Lot of Energy&lt;/h3&gt;
   &lt;p&gt;
-    Home heating and cooling consumes around 20% of the total energy in the U.S. For an average house in midwest, that’s more than $1100 spending per year on heating and cooling. This high consumption, however, is largely due to inefficient usage of the heaters at home. Although companies have started to develop smart thermostats, these thermostats are still limited. They often have limited intelligence, leading to miss opportuntiy for saving. They also lack the skills to inform and coach people about how to reach more efficient usage of their heating and cooling systems. 
+    Home heating and cooling consumes around 20% of the total energy in the U.S. For an average house in midwest, that’s more than $1100 spending per year on heating and cooling. This high consumption, however, is largely due to inefficient usage of the heaters at home. Although companies have started to develop smart thermostats, these thermostats are still limited. They often have limited intelligence, leading to missed opportuntiy for saving. They also lack the skills to inform and coach people about how to reach more efficient usage of their heating and cooling systems. 
   &lt;/p&gt;
   &lt;br /&gt;
   &lt;h3&gt;Comfort-Aware Eco-Coaching Thermostats&lt;/h3&gt;
@@ -276,8 +276,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/projects/reef.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/projects/reef.html</guid>
+        <link>http://localhost:4000/projects/reef.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/reef.html</guid>
         
         
         <category>project</category>
@@ -309,8 +309,8 @@
 
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/projects/olegoru.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/projects/olegoru.html</guid>
+        <link>http://localhost:4000/projects/olegoru.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/olegoru.html</guid>
         
         
         <category>project</category>
@@ -363,8 +363,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/projects/nenrin.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/projects/nenrin.html</guid>
+        <link>http://localhost:4000/projects/nenrin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/nenrin.html</guid>
         
         
         <category>project</category>
@@ -386,8 +386,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/projects/ios.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/projects/ios.html</guid>
+        <link>http://localhost:4000/projects/ios.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/ios.html</guid>
         
         
         <category>project</category>
@@ -437,8 +437,8 @@
 
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/projects/highwire.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/projects/highwire.html</guid>
+        <link>http://localhost:4000/projects/highwire.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/highwire.html</guid>
         
         
         <category>project</category>
@@ -463,8 +463,8 @@
 
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/jekyll/update/2015/10/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/jekyll/update/2015/10/09/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/jekyll/update/2015/10/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/10/09/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -478,8 +478,8 @@
         <description>&lt;p&gt;This is the project page for HighWire.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 15:50:46 -0400</pubDate>
-        <link>https://sprite728.github.io/project/2015/10/09/project-highwire.html</link>
-        <guid isPermaLink="true">https://sprite728.github.io/project/2015/10/09/project-highwire.html</guid>
+        <link>http://localhost:4000/project/2015/10/09/project-highwire.html</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2015/10/09/project-highwire.html</guid>
         
         
         <category>project</category>
